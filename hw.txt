@@ -1,3 +1,4 @@
 UPDATE HEHE
 TEST NEW WIN_GIT
 IF REPLACE_DEST = NO
+this is conflict test
