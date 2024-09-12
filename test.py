@@ -20,6 +20,7 @@ subTopic = "testpm2"
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code " + str(rc))
     print('hello')
+    print('world')
     # 訂閱主題
     client.subscribe(subTopic)
 
